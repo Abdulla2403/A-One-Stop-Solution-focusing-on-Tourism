@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OneStop</string>
+    <string name="SignIn">Don\'t have an account? <u><b>SignUp</b></u></string>
+    <string name="login">Already have an account? <u><b>SignIn</b></u></string>
+    <string name="api_key">AIzaSyB9v6pEPhMBhNuIyXEhFyNd4TShF0tOM-8</string>
+
+</resources>
